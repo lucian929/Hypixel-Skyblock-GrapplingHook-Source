@@ -24,7 +24,7 @@
     </repositories>
     <groupId>net.maploop</groupId>
     <artifactId>GrapplingHook</artifactId>
-    <version>1.7</version>
+    <version>1.8-RAIN</version>
     <dependencies>
         <!--This adds the Spigot API artifact to the build -->
         <dependency>
