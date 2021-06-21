@@ -15,8 +15,6 @@ public class EntityDamage implements Listener {
             Player player = (Player) event.getEntity();
             if(GrapplingHook.FLYING_TIMEOUT.containsKey(player.getUniqueId())) {
                 if(GrapplingHook.FLYING_TIMEOUT.get(player.getUniqueId()) < System.currentTimeMillis()) return;
-                System.out.println("Damage type(1) : " + event.getCause());
-                System.out.println("true");
                 event.setCancelled(true);
             }
         }
