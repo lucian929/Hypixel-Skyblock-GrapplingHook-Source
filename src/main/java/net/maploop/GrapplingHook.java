@@ -36,7 +36,7 @@ public class GrapplingHook extends JavaPlugin implements Listener {
         getCommand("gh").setTabCompleter(new Util());
         getCommand("grapplinghook").setTabCompleter(new Util());
         ConsoleCommandSender console = Bukkit.getConsoleSender();
-        console.sendMessage(Util.chat("&eGrappling Hook&a Plugin loaded successfully! &eVersion 1.2"));
+        console.sendMessage(Util.chat("&eGrappling Hook&a Plugin loaded successfully! &eVersion 1.8-RAIN"));
     }
 
     @Override
