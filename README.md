@@ -6,9 +6,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contribution](#contribution)
-- [Test Instructions](#test-instructions)
 - [Contact Information](#contact-information)
 
 ### Description
@@ -17,16 +15,12 @@ This is a fork of the Grappling Hook plugin made by [MapLoop](https://github.com
 ### Installation
 This project is really easy to build, just download the source and run "mvn clean install".
 
-### Usage
-
-
 ### Contribution
 
-
-### Test-Instructions
-
+Feel free to submit any PRs, I don't really have any guidelines for it. I'll look at them whenever I have time
 
 ### Contact-Information
 [Github Profile](https://github.com/Lucian929)
-lucian@hibiscusmc.com
+Email: **lucian@hibiscusmc.com**
+Discord: **Raindropz#0766**
 
