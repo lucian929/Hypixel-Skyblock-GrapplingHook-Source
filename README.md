@@ -1,8 +1,6 @@
 # lucian929/hypixel-skyblock-grapplinghook
 ----
 
-<a href="https://img.shields.io/badge/License-gpl-v3"><img src="https://img.shields.io/badge/License-gpl-v3"></a>
-
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
