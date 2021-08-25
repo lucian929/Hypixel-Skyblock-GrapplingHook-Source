@@ -1,4 +1,4 @@
-# lucian929/hypixel-skyblock-grapplinghook
+# Grappling Hook
 ----
 
 ## Table of Contents
